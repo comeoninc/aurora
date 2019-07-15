@@ -1,8 +1,5 @@
 # `amich-aurora`
 
-This project is bootstrapped by [aurelia-cli](https://github.com/aurelia/cli).
-
-For more information, go to https://aurelia.io/docs/cli/webpack
 
 ## Run dev app
 
@@ -35,3 +32,7 @@ First, run `au run` and keep it running.
 Then run `au cypress` to run cypress in interactive mode.
 
 To perform a test-run and reports the results, do `au cypress --run`.
+
+
+This project is bootstrapped by [aurelia-cli](https://github.com/aurelia/cli).
+For more information, go to https://aurelia.io/docs/cli/webpack
